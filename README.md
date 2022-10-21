@@ -1,6 +1,6 @@
 # Tic Tac Toe with Firebase
 
-This repository contains the code that implements the Tic Tac Toe game that was presented during [my session at Google I/O 2017](https://www.youtube.com/watch?v=eWj6dxfN63g).
+This repository contains the code that implements the Tic Tac Toe game that was presented during [my session at Google I/O 2022](https://www.youtube.com/watch?v=eWj6dxfN63g).
 
 ## Deploying the project
 
